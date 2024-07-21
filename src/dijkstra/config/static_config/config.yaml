@@ -1,0 +1,6 @@
+weight_smooth: 10.0
+weight_length: 2.0
+weight_ref: 2.0
+
+is_use_tiny_spline_smooth: true
+is_use_fem_smooth: true
